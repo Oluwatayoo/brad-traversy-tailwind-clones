@@ -12,7 +12,7 @@ The goal is to practice and master Tailwind's utility-first workflow while build
 1. [Email Subscribe Card](https://oluwatayoo.github.io/brad-traversy-tailwind-clones/Email%20Subscribe%20Card/)  
    A simple responsive landing page using Tailwind utilities for layout, spacing, and typography.
 
-2. [Pricing Grids](https://oluwatayoo.github.io/brad-traversy-tailwind-clones/Pricing%20Card/)  
+2. [Pricing Grids](https://oluwatayoo.github.io/brad-traversy-tailwind-clones/Pricing%20Grid/)  
    A pricing section with responsive grid layout and styled pricing cards.
 
 🚧 **Coming Soon**
