@@ -15,7 +15,10 @@ The goal is to practice and master Tailwind's utility-first workflow while build
 2. [Pricing Grids](https://oluwatayoo.github.io/brad-traversy-tailwind-clones/Pricing%20Card/)  
    A pricing section with responsive grid layout and styled pricing cards.
 
-🚧 **Coming Soon** 3. Product Modal 4. Image Gallery  
+🚧 **Coming Soon**
+
+3. Product Modal
+4. Image Gallery
 5. Login Modal
 
 ---
