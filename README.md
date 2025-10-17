@@ -12,13 +12,22 @@ The goal is to practice and master Tailwind's utility-first workflow while build
 1. [Email Subscribe Card](https://oluwatayoo.github.io/brad-traversy-tailwind-clones/Email%20Subscribe%20Card/)  
    A simple responsive landing page using Tailwind utilities for layout, spacing, and typography.
 
-2. [Pricing Grids](https://oluwatayoo.github.io/brad-traversy-tailwind-clones/Pricing%20Grid/)  
+2. [Pricing Grids](https://
+oluwatayoo.github.io/brad-traversy-tailwind-clones/Pricing%20Grid/)  
    A pricing section with responsive grid layout and styled pricing cards.
 
-🚧 **Coming Soon**
+3. [Product Modal](https://
 
-3. Product Modal
-4. Image Gallery
+oluwatayoo.github.io/brad-traversy-tailwind-clones/Product%20Modal/)  
+   A responsive pop-up showing product details.
+
+4. [Image Gallery](https://
+oluwatayoo.github.io/brad-traversy-tailwind-clones/Image%20Gallery/)  
+   A responsive image grid styled with Tailwind CSS.
+
+---
+
+🚧 **Coming Soon**
 5. Login Modal
 
 ---
